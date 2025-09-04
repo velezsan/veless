@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         WME – One-Click Place City
-// @namespace    you.wme.tools
+// @namespace    velezss
 // @version      1.0.0
 // @description  Change ONLY the City of selected Place(s).
 // @match        https://www.waze.com/editor*
