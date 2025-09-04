@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         WME – One-Click Place City (no-street via true empty-street)
+// @name         WME – One-Click Place City
 // @namespace    you.wme.tools
-// @version      2.3.0
-// @description  Change ONLY the City of selected Place(s). With street: re-link to same-name street in target city. No-street: link to the target city's EMPTY street (blank name). No auto-save.
+// @version      1.0.0
+// @description  Change ONLY the City of selected Place(s).
 // @match        https://www.waze.com/editor*
 // @match        https://www.waze.com/*/editor*
 // @match        https://beta.waze.com/editor*
